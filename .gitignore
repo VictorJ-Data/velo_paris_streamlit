@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data
+data/raw/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
